@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "357529923774",
+    "firebase_url": "https://rework-234f1-default-rtdb.firebaseio.com",
+    "project_id": "rework-234f1",
+    "storage_bucket": "rework-234f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357529923774:android:41df2b5dbbbf4b9234eeef",
+        "android_client_info": {
+          "package_name": "com.rework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357529923774-1dif1r20vjlk1sgd7dbpi9ltsvujdd7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiXLT7ZKlxTTALcZHlrfmmphxDge5ccVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357529923774-1dif1r20vjlk1sgd7dbpi9ltsvujdd7e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357529923774-p3m8ssmk4jnt72upblhh5gke6eu3o1i1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ReWork"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
